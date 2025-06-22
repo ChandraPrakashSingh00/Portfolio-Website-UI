@@ -8,7 +8,8 @@ A modern and responsive **Portfolio Website** built using **HTML**, **CSS**, **S
 
 ## 📸 Preview
 
-![Portfolio Preview](./assets/portfolio-preview.png) <!-- Replace with your own image path or external link -->
+![Portfolio Preview](![Portfolio Images](https://github.com/user-attachments/assets/588bbf44-55ba-49e7-b013-d87eaebe036b)
+) <!-- Replace with your own image path or external link -->
 
 ---
 
